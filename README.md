@@ -1,6 +1,6 @@
 # Heart Disease Diagnosis Fuzzy System
 
-In this project I've implemented a heart disease diagnosis system using fuzzy expert system.
+In this project, I've implemented a heart disease diagnosis system using a fuzzy expert system.
 
 ## Implementation steps
 
@@ -15,6 +15,9 @@ In this project I've implemented a heart disease diagnosis system using fuzzy ex
 pip install -r requirements.txt
 python app.py
 ```
-Localhost:8448
+
+## An Example of Input and Result
+![image](https://user-images.githubusercontent.com/72709191/196000393-6a60aad1-5ee6-4dc6-a423-c7b443770dfd.png)
+![image](https://user-images.githubusercontent.com/72709191/196000274-0abac9f5-3517-4b63-a897-5c3019289170.png)
 
 
